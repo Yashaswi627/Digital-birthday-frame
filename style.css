@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: rgb(255, 140, 0);
+}
+
+.photo_button {
+    margin-top: 20px;
+    width: 100px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+canvas {
+    border: solid 5px white;
+}
